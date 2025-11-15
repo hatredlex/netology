@@ -12,6 +12,6 @@ https://hub.docker.com/r/hatredlex/custom-nginx/tags
 У нас порт 8080 хоста проброшен в 80 порт контейнера, мы внутри контейнера изменили порт, который слушает nginx на 81 и curl внутри контейнера возвращает 200 на нем, а с хоста подключение идет по прежнему на порт 80, который nginx уже не слушает.
 
 # Задача 4
-
+<img width="1202" height="467" alt="image" src="https://github.com/user-attachments/assets/ad0c4c04-ecdc-4f08-a139-811fcfa6a76f" />
 
 # Задача 5
