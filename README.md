@@ -17,8 +17,8 @@ https://hub.docker.com/r/hatredlex/custom-nginx/tags
 # Задача 5
 По умолчанию новый докер работает с файлом compose.yaml, старое имя docker-compose.yaml тоже поддерживается, но если существуют оба файла приоритет будет отдан compose.yaml
 
-<img width="1341" height="876" alt="image" src="https://github.com/user-attachments/assets/c094a95e-9eb4-4d04-9361-89d0c38b61b2" />
-<img width="1663" height="825" alt="image" src="https://github.com/user-attachments/assets/3d30e530-d72f-4159-b429-516cfdb7ebf9" />
+<img width="1659" height="846" alt="image" src="https://github.com/user-attachments/assets/c05a57a8-89d6-4ea3-a1a8-3fd924d63c25" />
+<img width="1657" height="247" alt="image" src="https://github.com/user-attachments/assets/6d0e21e2-b261-4f38-9959-7c24e7ca799e" />
 В процессе выполнения задания наткнулся на баг, environment local в portainer не открывалось и было в статусе down. Ошибка в docker logs следующая: the Podman environment option doesn't support Docker environments. Please select the Docker option instead.
 Думал что в задании подвох, но оказалось что это действующая issue, в новом докере повылиси минимальную версию api, из-за чего подман ен может подключиться к локальному docker. Проблему решил понижением минимальной версии api путем редактирования docker.service, с добавлением Environment=DOCKER_MIN_API_VERSION=1.24. После чего всё заработало.
 
