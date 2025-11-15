@@ -27,7 +27,8 @@ https://hub.docker.com/r/hatredlex/custom-nginx/tags
 
 <img width="1920" height="1276" alt="5" src="https://github.com/user-attachments/assets/f28d9696-0a9f-4738-a07e-4261db1c6059" />
 Мы удалили один из файлов compose.yaml и docker compose теперь не знает что делать с контейнерами, которые отсутствуют в текущем проекте, по этому предлагает ключ --remove-orphans чтобы удалить эти лишние контейнеры.
- 
+
+  
 [compose.yaml](https://github.com/hatredlex/netology/blob/docker-intro/compose.yaml)
 
 
