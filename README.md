@@ -21,10 +21,13 @@ https://hub.docker.com/r/hatredlex/custom-nginx/tags
 <img width="1663" height="825" alt="image" src="https://github.com/user-attachments/assets/3d30e530-d72f-4159-b429-516cfdb7ebf9" />
 В процессе выполнения задания наткнулся на баг, environment local в portainer не открывалось и было в статусе down. Ошибка в docker logs следующая: the Podman environment option doesn't support Docker environments. Please select the Docker option instead.
 Думал что в задании подвох, но оказалось что это действующая issue, в новом докере повылиси минимальную версию api, из-за чего подман ен может подключиться к локальному docker. Проблему решил понижением минимальной версии api путем редактирования docker.service, с добавлением Environment=DOCKER_MIN_API_VERSION=1.24. После чего всё заработало.
+
 Ссылка на issue: https://github.com/portainer/portainer/issues/12925?ysclid=mi0offiog9717715495
+
 
 <img width="1920" height="1276" alt="5" src="https://github.com/user-attachments/assets/f28d9696-0a9f-4738-a07e-4261db1c6059" />
 Мы удалили один из файлов compose.yaml и docker compose теперь не знает что делать с контейнерами, которые отсутствуют в текущем проекте, по этому предлагает ключ --remove-orphans чтобы удалить эти лишние контейнеры.
+
 
 [compose.yaml](https://github.com/hatredlex/netology/blob/docker-intro/compose.yaml)
 
