@@ -8,6 +8,8 @@
 <img width="790" height="725" alt="image" src="https://github.com/user-attachments/assets/bbec51a4-9f3d-4183-8184-5bb44fa2f642" />
 
 # Задача 4
+<img width="1651" height="820" alt="image" src="https://github.com/user-attachments/assets/294d140d-94f1-4846-a137-493266c6d1be" />
+<img width="1652" height="288" alt="image" src="https://github.com/user-attachments/assets/954ede07-3519-497c-834b-57e5855aaca9" />
 
 https://github.com/hatredlex/shvirtd-example-python
 
