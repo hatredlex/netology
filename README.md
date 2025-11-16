@@ -5,7 +5,7 @@
 
 
 # Задача 2
-
+<img width="1494" height="462" alt="image" src="https://github.com/user-attachments/assets/6b9c83ea-2882-4d79-832b-055f1dedb06c" />
 
 # Задача 3
 
