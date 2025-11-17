@@ -59,7 +59,9 @@ docker run --rm --network "$DOCKER_NETWORK" \
 echo "[INFO] done: $DUMP_FILE"
 ```
 Crontask:
+```bash
 * * * * * /opt/backup_mysql.sh
+```
 
 <img width="577" height="94" alt="image" src="https://github.com/user-attachments/assets/2d265191-1af6-4167-8412-41eb244a5d5c" />
 <img width="705" height="881" alt="image" src="https://github.com/user-attachments/assets/abc18d34-57e2-4d6b-b1e0-9393925eb955" />
