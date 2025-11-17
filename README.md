@@ -14,4 +14,54 @@
 https://github.com/hatredlex/shvirtd-example-python
 
 # Задача 5
+Скрипт:
+```bash
+#!/bin/bash
+
+PROJECT_DIR="/home/adm1/netology/shvirtd-example-python"
+cd "$PROJECT_DIR"
+
+MAIN_ENV="$PROJECT_DIR/.env"
+BACKUP_ENV="$PROJECT_DIR/.backup.env"
+DOCKER_NETWORK="shvirtd-example-python_backend"
+
+source "$MAIN_ENV"
+source "$BACKUP_ENV"
+
+BACKUP_DIR="/opt/backup"
+mkdir -p "$BACKUP_DIR"
+
+echo "[INFO] create backup user..."
+docker run --rm --network "$DOCKER_NETWORK" mysql:8 \
+  mysql -h "$MYSQL_HOST" -uroot -p"$MYSQL_ROOT_PASSWORD" \
+  -e "DROP USER IF EXISTS '$MYSQL_BACKUP_USER'@'%';
+      CREATE USER '$MYSQL_BACKUP_USER'@'%' IDENTIFIED WITH mysql_native_password BY '$MYSQL_BACKUP_PASSWORD';
+      GRANT SELECT, LOCK TABLES, SHOW VIEW, EVENT, TRIGGER
+        ON \`$MYSQL_DATABASE\`.* TO '$MYSQL_BACKUP_USER'@'%';
+      FLUSH PRIVILEGES;"
+
+TS="$(date +'%Y-%m-%d_%H-%M-%S')"
+DUMP_FILE="$BACKUP_DIR/${TS}_${MYSQL_DATABASE}.sql"
+DUMP_FILE_IN_CONTAINER="/backup/$(basename "$DUMP_FILE")"
+
+echo "[INFO] creating dump..."
+docker run --rm --network "$DOCKER_NETWORK" \
+  --entrypoint "" \
+  -v "$BACKUP_DIR:/backup" \
+  schnitzler/mysqldump \
+  mysqldump --opt --no-tablespaces \
+    -h "$MYSQL_HOST" \
+    -u"$MYSQL_BACKUP_USER" \
+    -p"$MYSQL_BACKUP_PASSWORD" \
+    "--result-file=$DUMP_FILE_IN_CONTAINER" \
+    "$MYSQL_DATABASE"
+
+echo "[INFO] done: $DUMP_FILE"
+```
+Crontask:
+* * * * * /opt/backup_mysql.sh
+
+<img width="577" height="94" alt="image" src="https://github.com/user-attachments/assets/2d265191-1af6-4167-8412-41eb244a5d5c" />
+<img width="705" height="881" alt="image" src="https://github.com/user-attachments/assets/abc18d34-57e2-4d6b-b1e0-9393925eb955" />
+
 
