@@ -83,3 +83,13 @@ Crontask:
 # Задача 6.2
 <img width="1651" height="595" alt="image" src="https://github.com/user-attachments/assets/73c2c1d7-15b7-4776-ad8c-eed6a8842c80" />
 
+
+# Задача 7
+<img width="1653" height="420" alt="image" src="https://github.com/user-attachments/assets/abdd95a4-c194-4e90-b707-caceded13494" />
+<img width="1654" height="348" alt="image" src="https://github.com/user-attachments/assets/05ed2cc8-e6d2-4c1f-9f72-80498c217d43" />
+<img width="1655" height="527" alt="image" src="https://github.com/user-attachments/assets/1109431c-25f1-466b-81cf-00f955252186" />
+<img width="1655" height="316" alt="image" src="https://github.com/user-attachments/assets/0de33f23-3337-4735-84c2-94cdea610113" />
+<img width="1648" height="279" alt="image" src="https://github.com/user-attachments/assets/9f50484c-39c8-43fa-90dd-c458cc4de00f" />
+<img width="1658" height="878" alt="image" src="https://github.com/user-attachments/assets/be5b76b2-6425-4df2-847c-a7bbd10492ba" />
+
+
