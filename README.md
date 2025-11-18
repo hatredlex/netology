@@ -73,8 +73,12 @@ Crontask:
 
 
 # Задача 6
-
 <img width="1092" height="880" alt="image" src="https://github.com/user-attachments/assets/fac1eacb-99f5-4949-8fc2-8d48eca28d0a" />
 
 
+# Задача 6.1
+<img width="715" height="399" alt="image" src="https://github.com/user-attachments/assets/0c844106-3de4-4032-a56a-a3d237db6a86" />
+
+
+# Задача 6.2
 
