@@ -81,4 +81,5 @@ Crontask:
 
 
 # Задача 6.2
+<img width="1651" height="595" alt="image" src="https://github.com/user-attachments/assets/73c2c1d7-15b7-4776-ad8c-eed6a8842c80" />
 
