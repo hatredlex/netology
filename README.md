@@ -24,7 +24,7 @@ resource "docker_container" "nginx1" {
 <br /><br />
   6.  Опасность в том что код применяется без подтверждения, например если изменили имя, то ресурс будет удален и создан заново. auto-approve может быть полезен в скриптах при автоматизации.  <br /><br />
 <img width="981" height="46" alt="image" src="https://github.com/user-attachments/assets/6e62a258-d15f-43a0-988e-d5f9d2456779" />
-
+<br /><br />
 7. 
 ```yaml
 {
