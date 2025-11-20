@@ -5,9 +5,10 @@
 
 3. "result": "7XY07ubGTmsFwVxW"
 
-4. 1-ая ошибка в том, что имя ресурса 1nginx не может начинаться с цифры, исправим на nginx1
-   2 и 3 ошибки - это сылка на несуществующий ресурс random_password.random_string_FAKE.resulT и атрибут с большой буквой, имена регистрозависимые, исправляем на random_password.random_string.result
-   4-ая ошибка, у ресурса Terraform обязателен второй label — имя, исправим resource "docker_image" "nginx"
+4. 
+1-ая ошибка в том, что имя ресурса 1nginx не может начинаться с цифры, исправим на nginx1
+2 и 3 ошибки - это сылка на несуществующий ресурс random_password.random_string_FAKE.resulT и атрибут с большой буквой, имена регистрозависимые, исправляем на random_password.random_string.result
+4-ая ошибка, у ресурса Terraform обязателен второй label — имя, исправим resource "docker_image" "nginx"
 
 5.
 ```hl
