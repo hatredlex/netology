@@ -17,3 +17,20 @@ resource "docker_container" "nginx1" {
   image = docker_image.nginx.image_id
   name  = "example_${random_password.random_string.result}"
    ```
+<img width="1083" height="47" alt="image" src="https://github.com/user-attachments/assets/cd9b764b-81b2-45bc-be32-37638f6e7bf1" />
+
+6. Опасность в том что код применяется без подтверждения, например если изменили имя, то ресурс будет удален и создан заново. auto-approve может быть полезен в скриптах при автоматизации.
+<img width="981" height="46" alt="image" src="https://github.com/user-attachments/assets/6e62a258-d15f-43a0-988e-d5f9d2456779" />
+
+7. 
+```yaml
+{
+  "version": 4,
+  "terraform_version": "1.12.2",
+  "serial": 11,
+  "lineage": "c657dbfc-62d4-71e8-7dc0-160277c25a82",
+  "outputs": {},
+  "resources": [],
+  "check_results": null
+}
+```
