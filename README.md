@@ -9,7 +9,8 @@
 2 и 3 ошибки - это сылка на несуществующий ресурс random_password.random_string_FAKE.resulT и атрибут с большой буквой, имена регистрозависимые, исправляем на random_password.random_string.result  
 4-ая ошибка, у ресурса Terraform обязателен второй label — имя, исправим resource "docker_image" "nginx"
 
-6.  ```hl
+6.
+```hl
 resource "docker_image" "nginx" {
   name         = "nginx:latest"
   keep_locally = true
@@ -21,6 +22,7 @@ resource "docker_container" "nginx1" {
    ```
 <img width="1083" height="47" alt="image" src="https://github.com/user-attachments/assets/cd9b764b-81b2-45bc-be32-37638f6e7bf1" />
 
+  
 6. Опасность в том что код применяется без подтверждения, например если изменили имя, то ресурс будет удален и создан заново. auto-approve может быть полезен в скриптах при автоматизации.
 <img width="981" height="46" alt="image" src="https://github.com/user-attachments/assets/6e62a258-d15f-43a0-988e-d5f9d2456779" />
 
