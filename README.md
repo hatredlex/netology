@@ -9,7 +9,7 @@
 2 и 3 ошибки - это сылка на несуществующий ресурс random_password.random_string_FAKE.resulT и атрибут с большой буквой, имена регистрозависимые, исправляем на random_password.random_string.result  
 4-ая ошибка, у ресурса Terraform обязателен второй label — имя, исправим resource "docker_image" "nginx"
 
-6.
+5.
 ```hl
 resource "docker_image" "nginx" {
   name         = "nginx:latest"
