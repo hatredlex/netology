@@ -44,3 +44,5 @@ resource "docker_container" "nginx1" {
 
 8. Поле keep_locally = true говорит провайдеру оставить образ на хосте даже при terraform destroy  
    keep_locally (Boolean) If true, then the Docker image won't be deleted on destroy operation.
+
+Ссылка на форк https://github.com/hatredlex/ter-homeworks/tree/main/01/src
