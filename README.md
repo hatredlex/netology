@@ -19,3 +19,7 @@
 
 
 # Задание 4
+<img width="484" height="310" alt="image" src="https://github.com/user-attachments/assets/15e2915c-6bda-4881-b1ab-62e38d21660d" />
+
+
+# Задание 5
