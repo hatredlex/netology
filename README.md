@@ -15,3 +15,7 @@
 
 
 # Задание 3
+<img width="1836" height="309" alt="image" src="https://github.com/user-attachments/assets/94a07fb5-36c5-43e4-a6e3-320924590938" />
+
+
+# Задание 4
