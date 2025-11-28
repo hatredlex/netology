@@ -52,3 +52,12 @@ No modules.
 |------|-------------|
 | <a name="output_network_id"></a> [network\_id](#output\_network\_id) | ID сети |
 | <a name="output_subnet"></a> [subnet](#output\_subnet) | объект созданной подсети |
+
+<br/><br/>  
+
+# Задание 3
+<img width="1074" height="912" alt="image" src="https://github.com/user-attachments/assets/33e102f6-808e-46af-a02b-561ce6981d90" />
+<img width="1055" height="718" alt="image" src="https://github.com/user-attachments/assets/d9224d3a-2c5c-4002-ab5c-5335de93feb8" />
+<img width="1068" height="752" alt="image" src="https://github.com/user-attachments/assets/296a4ef7-00a1-461c-9a46-d24d1d5fcbd5" />
+
+<br/><br/>  
