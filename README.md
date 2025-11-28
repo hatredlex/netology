@@ -11,9 +11,10 @@
 <br/><br/>  
   
 # Задание 2
-3. <img width="498" height="427" alt="image" src="https://github.com/user-attachments/assets/98ef65d2-5d85-4c43-93ce-fddf20c8a729" />
+<img width="498" height="427" alt="image" src="https://github.com/user-attachments/assets/98ef65d2-5d85-4c43-93ce-fddf20c8a729" />
   
-5. <br/><br/>  
+<br/><br/>  
+
 ## Requirements
 
 | Name | Version |
