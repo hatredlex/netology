@@ -1,3 +1,7 @@
+Ссылка на код https://github.com/hatredlex/ter-homeworks/tree/main/04/src
+
+<br/><br/>  
+
 # Задание 1
 <img width="607" height="805" alt="image" src="https://github.com/user-attachments/assets/46fbf7f8-af05-4ad2-9fbb-9b89b42b611d" />
 <br/><br/>  
