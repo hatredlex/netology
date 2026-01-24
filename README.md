@@ -12,7 +12,7 @@ https://github.com/hatredlex/08-ansible-01-base_02.25
 
 6\. <img width="1457" height="538" alt="image" src="https://github.com/user-attachments/assets/c84f9dde-e0b1-485b-b889-5876b7dab297" />
 
-7\. <img width="796" height="206" alt="image" src="https://github.com/user-attachments/assets/719c5531-f3bb-48df-9124-f87c4d49bb99" />
+7\. <br><img width="796" height="206" alt="image" src="https://github.com/user-attachments/assets/719c5531-f3bb-48df-9124-f87c4d49bb99" />
 
 8\. <img width="1451" height="559" alt="image" src="https://github.com/user-attachments/assets/3bfd2ab5-1999-4e60-90d4-dbb3e42f9f0d" />
 
