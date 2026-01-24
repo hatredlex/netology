@@ -11,5 +11,7 @@ https://github.com/hatredlex/08-ansible-02-playbook_02.25
 7\. <img width="1593" height="831" alt="image" src="https://github.com/user-attachments/assets/c49eb31c-4805-45ba-896d-9101be2777a5" />
 <img width="1590" height="680" alt="image" src="https://github.com/user-attachments/assets/ec22c3ae-e6c1-499d-ad20-72e478982c9b" />
 
-8\. 
+8\. <img width="1590" height="825" alt="image" src="https://github.com/user-attachments/assets/7a11ab02-2122-4e4a-925a-e8bcf095d095" />
+<img width="1591" height="119" alt="image" src="https://github.com/user-attachments/assets/a8b4ecda-30d1-410c-9f40-cdd9abaa282b" />
+
 
