@@ -16,7 +16,7 @@ https://github.com/hatredlex/08-ansible-01-base_02.25
 
 8\. <img width="1451" height="559" alt="image" src="https://github.com/user-attachments/assets/3bfd2ab5-1999-4e60-90d4-dbb3e42f9f0d" />
 
-9\. 
+9\. <br><img width="763" height="582" alt="image" src="https://github.com/user-attachments/assets/e0c54f83-7555-4c38-acbb-11803f04a31f" />
 
 10\. 
 
