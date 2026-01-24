@@ -6,22 +6,20 @@ https://github.com/hatredlex/08-ansible-01-base_02.25
 
 1. <br><img width="1333" height="373" alt="image" src="https://github.com/user-attachments/assets/e5049a0d-738f-4967-b0c9-4c12bda3f083" />
 
-2. 
+2. <br><img width="1335" height="375" alt="image" src="https://github.com/user-attachments/assets/6b57eaf6-515f-449c-b3cd-3d2a1f4b2aff" />
 
-3. 
+4. <br>
 
-4. 
+5. <br>
 
-5. 
+6. <br>
 
-6. 
+7. <br>
 
-7. 
+8. <br>
 
-8. 
+9. <br>
 
-9. 
+10. <br>
 
-10. 
-
-11. 
+11. <br>
