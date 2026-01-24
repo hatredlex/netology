@@ -2,7 +2,8 @@
 
 ссылка на репозиторий с кодом:
 https://github.com/hatredlex/08-ansible-02-playbook_02.25
-
+ссылка на тэг:
+https://github.com/hatredlex/08-ansible-02-playbook_02.25/releases/tag/08-ansible-02-playbook
 
 5\. <br><img width="775" height="70" alt="image" src="https://github.com/user-attachments/assets/34cef5d6-afe4-4a75-9542-7a6ced459e21" />
 
