@@ -1,13 +1,16 @@
 # Домашнее задание к занятию 5 «Тестирование roles»
 
-### Molecule
-<br>
-ссылка на Playbook:
+ссылка на конечный Playbook:
 https://github.com/hatredlex/mnt-homeworks/tree/MNT-video/08-ansible-05-testing/playbook
 <br>
-тэг:
+molecula тэг:
 https://github.com/hatredlex/mnt-homeworks/releases/tag/v1.0.1
-<br><br>
+<br>
+tox тэг:
+https://github.com/hatredlex/mnt-homeworks/releases/tag/v1.0.2
+
+### Molecule
+<br>
 <img width="1467" height="86" alt="image" src="https://github.com/user-attachments/assets/105e6735-e0bb-4294-9d25-e088d16a449a" />
 <img width="1456" height="803" alt="image" src="https://github.com/user-attachments/assets/6f634283-0f98-4f55-bdba-1fd5166e5944" />
 <img width="1457" height="854" alt="image" src="https://github.com/user-attachments/assets/ca0bafa3-3f49-4208-aab7-65999e1c41d9" />
@@ -24,10 +27,6 @@ https://github.com/hatredlex/mnt-homeworks/releases/tag/v1.0.1
 
 ### Tox
 <br>
-ссылка на Playbook:
-https://github.com/hatredlex/mnt-homeworks/tree/MNT-video/08-ansible-05-testing/playbook
-<br>
-тэг:
-https://github.com/hatredlex/mnt-homeworks/releases/tag/v1.0.1
+
 <br><br>
 ---
