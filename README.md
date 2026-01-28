@@ -27,6 +27,7 @@ https://github.com/hatredlex/mnt-homeworks/releases/tag/v1.0.2
 
 ### Tox
 <br>
+<img width="1469" height="614" alt="image" src="https://github.com/user-attachments/assets/b0ff904b-3d5d-4b22-ba73-762e4d9c64a0" />
 
 <br><br>
 ---
