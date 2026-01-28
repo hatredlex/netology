@@ -1,6 +1,6 @@
 # Домашнее задание к занятию 5 «Тестирование roles»
 
-ссылка на конечный Playbook:
+ссылка на конечный Playbook:<br>
 https://github.com/hatredlex/mnt-homeworks/tree/MNT-video/08-ansible-05-testing/playbook
 <br>
 molecula тэг:
