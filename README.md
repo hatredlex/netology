@@ -29,5 +29,14 @@ https://github.com/hatredlex/mnt-homeworks/releases/tag/v1.0.2
 <br>
 <img width="1469" height="614" alt="image" src="https://github.com/user-attachments/assets/b0ff904b-3d5d-4b22-ba73-762e4d9c64a0" />
 
+
+<img width="1465" height="118" alt="image" src="https://github.com/user-attachments/assets/f1c03037-1146-4590-b1eb-dc61a7517d4c" />
+<img width="1457" height="789" alt="image" src="https://github.com/user-attachments/assets/56322a00-5bbb-42b4-a28f-a8370653f0d2" />
+<img width="1460" height="805" alt="image" src="https://github.com/user-attachments/assets/138834b8-e110-42a9-a77e-2f9f7c907050" />
+<img width="1457" height="834" alt="image" src="https://github.com/user-attachments/assets/75d00a82-f91f-404a-a3b5-5f05fb239500" />
+<img width="1463" height="799" alt="image" src="https://github.com/user-attachments/assets/f2e79732-00a3-43a0-9236-18f7fdc52e74" />
+<img width="1463" height="798" alt="image" src="https://github.com/user-attachments/assets/56d34084-d651-4952-b395-fcb91fe05c66" />
+<img width="1464" height="273" alt="image" src="https://github.com/user-attachments/assets/6ce6c8db-0597-418a-9e6f-11d43ff069b7" />
+
 <br><br>
 ---
