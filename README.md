@@ -42,6 +42,11 @@ https://github.com/hatredlex/mnt-homeworks/releases/tag/v1.0.2
 <img width="1467" height="568" alt="image" src="https://github.com/user-attachments/assets/c6b267df-3a59-44ac-8514-5c15e3b4fed4" />
 
 С хоста:
+<img width="1466" height="860" alt="image" src="https://github.com/user-attachments/assets/45c93276-946a-4f54-b5c7-07573ba52e83" />
+<img width="1464" height="856" alt="image" src="https://github.com/user-attachments/assets/ca4235e6-ff99-4efe-a163-c5b4b83b06dc" />
+<img width="1462" height="850" alt="image" src="https://github.com/user-attachments/assets/7badf7dd-3a54-4158-9bae-e5b855103020" />
+<img width="1464" height="848" alt="image" src="https://github.com/user-attachments/assets/a604cfa3-2968-40f6-9c87-bdb8650cff50" />
+<img width="1463" height="549" alt="image" src="https://github.com/user-attachments/assets/da94ffdd-d0ec-4c3a-83d6-90e622ef3e96" />
 
 
 <br><br>
