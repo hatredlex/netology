@@ -40,10 +40,10 @@ https://github.com/hatredlex/mnt-homeworks/releases/tag/v1.0.2
 <img width="1464" height="273" alt="image" src="https://github.com/user-attachments/assets/6ce6c8db-0597-418a-9e6f-11d43ff069b7" />
 <br><br><br>
 6. <br>
-Из контейнера:
+Из контейнера ошибки и несовместимость версий всего и вся:
 <img width="1467" height="568" alt="image" src="https://github.com/user-attachments/assets/c6b267df-3a59-44ac-8514-5c15e3b4fed4" />
 <br><br>
-С хоста:
+С хоста удалось запустить:
 <img width="1466" height="860" alt="image" src="https://github.com/user-attachments/assets/45c93276-946a-4f54-b5c7-07573ba52e83" />
 <img width="1464" height="856" alt="image" src="https://github.com/user-attachments/assets/ca4235e6-ff99-4efe-a163-c5b4b83b06dc" />
 <img width="1462" height="850" alt="image" src="https://github.com/user-attachments/assets/7badf7dd-3a54-4158-9bae-e5b855103020" />
