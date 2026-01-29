@@ -2,11 +2,20 @@
 
 ссылка на конечный Playbook:<br>
 https://github.com/hatredlex/mnt-homeworks/tree/MNT-video/08-ansible-05-testing/playbook
-<br>
+<br><br><br>
 
 4. <br>
 <img width="730" height="225" alt="image" src="https://github.com/user-attachments/assets/2a0ed501-f697-4da7-b0b4-96b918c9651a" />
+<br><br>
+6. <br>
 
+<br><br>
+15. <br>
+
+<br><br>
+16. <br>
+
+<br><br>
 
 <br><br>
 ---
