@@ -1,7 +1,10 @@
 # Домашнее задание к занятию 6 «Создание собственных модулей»
 
-ссылка на конечный Playbook:<br>
-https://github.com/hatredlex/mnt-homeworks/tree/MNT-video/08-ansible-05-testing/playbook
+ссылка на Collection:<br>
+https://github.com/hatredlex/my_own_collection
+<br><br>
+ссылка на архив:<br>
+https://github.com/hatredlex/my_own_collection/releases/download/1.0.0/my_own_namespace-yandex_cloud_elk-1.0.0.tar.gz
 <br><br>
 4. <br>
 <img width="730" height="225" alt="image" src="https://github.com/user-attachments/assets/2a0ed501-f697-4da7-b0b4-96b918c9651a" />
