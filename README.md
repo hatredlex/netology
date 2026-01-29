@@ -13,6 +13,7 @@ https://github.com/hatredlex/mnt-homeworks/tree/MNT-video/08-ansible-05-testing/
 <img width="1451" height="140" alt="image" src="https://github.com/user-attachments/assets/7a34b868-3ae7-4181-9d03-c42dfd2f5b42" />
 <br><br>
 16. <br>
+<img width="1468" height="571" alt="image" src="https://github.com/user-attachments/assets/24f92de5-c81a-448e-8b61-121926184255" />
 
 <br><br>
 ---
