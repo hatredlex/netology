@@ -3,13 +3,10 @@
 ссылка на конечный Playbook:<br>
 https://github.com/hatredlex/mnt-homeworks/tree/MNT-video/08-ansible-05-testing/playbook
 <br>
-molecula тэг:
-https://github.com/hatredlex/mnt-homeworks/releases/tag/v1.0.1
-<br>
-tox тэг:
-https://github.com/hatredlex/mnt-homeworks/releases/tag/v1.0.2
 
-### Molecule
+4. <br>
+<img width="730" height="225" alt="image" src="https://github.com/user-attachments/assets/2a0ed501-f697-4da7-b0b4-96b918c9651a" />
+
 
 <br><br>
 ---
