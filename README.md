@@ -1,5 +1,10 @@
 # Домашнее задание к занятию 7 «Жизненный цикл ПО»
 
+### Ссылки на XML со схемами workflow
+
+https://github.com/hatredlex/netology/blob/ci-01/Bug_Workflow.xml
+https://github.com/hatredlex/netology/blob/ci-01/Default_Workflow.xml
+
 
 ### Workflow
 
