@@ -12,4 +12,10 @@
 
 
 
+### Задачи
+
+
+<img width="1294" height="983" alt="image" src="https://github.com/user-attachments/assets/aa635d2c-12e6-4490-909b-8c84366a98f8" />
+
+
 
