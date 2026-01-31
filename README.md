@@ -7,6 +7,8 @@ https://github.com/hatredlex/netology/blob/ci-01/Bug_Workflow.xml
 https://github.com/hatredlex/netology/blob/ci-01/Default_Workflow.xml
 
 
+
+
 ### Workflow
 
 <img width="1466" height="922" alt="image" src="https://github.com/user-attachments/assets/f7940505-78f4-4b90-b119-1416ebffa3ee" />
