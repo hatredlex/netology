@@ -48,11 +48,10 @@ Push-модель
 
 ### 6
 Классификация систем мониторинга
-
-Prometheus - pull
-TICK - push
-Zabbix - гибрид
-VictoriaMetrics - гибрид
-Nagios - pull
+- Prometheus - pull
+- TICK - push
+- Zabbix - гибрид
+- VictoriaMetrics - гибрид
+- Nagios - pull
 
 ---
