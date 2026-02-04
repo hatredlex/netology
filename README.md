@@ -27,8 +27,11 @@ node_filesystem_avail_bytes{fstype!~"tmpfs|overlay|squashfs|aufs", mountpoint!~"
 
 ### 3
 <img width="1916" height="1028" alt="image" src="https://github.com/user-attachments/assets/8334f8da-94f9-42e5-9e45-72ac725423b2" />
+<img width="1907" height="1023" alt="image" src="https://github.com/user-attachments/assets/cf442a21-a913-442f-afef-6b032162aba4" />
 
 ### 4
+``` JSON
 
+```
 
 ---
