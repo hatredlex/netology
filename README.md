@@ -47,6 +47,12 @@ Push-модель
 - Выше риск перегрузки при массовой отправке
 
 ### 6
+Классификация систем мониторинга
 
+Prometheus — pull
+TICK — push
+Zabbix — гибрид (push и pull)
+VictoriaMetrics — гибрид
+Nagios — pull
 
 ---
