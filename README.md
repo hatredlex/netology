@@ -54,4 +54,10 @@ Push-модель
 - VictoriaMetrics - гибрид
 - Nagios - pull
 
+### 7
+<img width="1157" height="772" alt="image" src="https://github.com/user-attachments/assets/3e330bb9-87c6-425d-a613-10f6c79c9932" />
+
+### 8
+
+
 ---
