@@ -61,6 +61,7 @@ Push-модель
 <img width="1909" height="1024" alt="image" src="https://github.com/user-attachments/assets/f17fd1b9-8834-490b-b643-1e608cc5a30a" />
 
 ### 9
+<img width="1910" height="1017" alt="image" src="https://github.com/user-attachments/assets/338793ed-71eb-4ce1-9234-c1f828a10dba" />
 
 
 ---
