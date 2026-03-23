@@ -1,6 +1,6 @@
 # Домашнее задание к занятию «Базовые объекты K8S»
 
-ссылки на манифесты:
+ссылки на манифесты:<br>
 https://github.com/hatredlex/netology/blob/kuber-02/hello-world-pod.yaml
 <br>
 https://github.com/hatredlex/netology/blob/kuber-02/netology-web-pod.yaml
