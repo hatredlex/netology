@@ -2,7 +2,9 @@
 
 ссылки на манифесты:
 https://github.com/hatredlex/netology/blob/kuber-02/hello-world-pod.yaml
+<br>
 https://github.com/hatredlex/netology/blob/kuber-02/netology-web-pod.yaml
+<br>
 https://github.com/hatredlex/netology/blob/kuber-02/netology-svc.yaml
 
 1.
@@ -12,6 +14,6 @@ https://github.com/hatredlex/netology/blob/kuber-02/netology-svc.yaml
 
 <img width="1155" height="677" alt="image" src="https://github.com/user-attachments/assets/c1d797dd-0c7a-4b73-ace8-0b212bc25ed2" />
 
-
+<br><br>
 
 <img width="571" height="161" alt="image" src="https://github.com/user-attachments/assets/556eb074-3345-493d-b16f-6a053d432d90" />
