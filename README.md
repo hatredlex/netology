@@ -1,7 +1,7 @@
 # Домашнее задание к занятию «Запуск приложений в K8S»
 
 ### Задание 1
-Манифест пода приложения:<br>
+Манифест деплоймента на два контейнера:<br>
 https://github.com/hatredlex/netology/blob/kuber-03/multitool-check.yaml<br>
 Минифест сервиса:<br>
 https://github.com/hatredlex/netology/blob/kuber-03/app-service.yaml<br>
