@@ -1,0 +1,32 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: nginx-init-deployment
+  namespace: hw-k8s
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: nginx-init
+  template:
+    metadata:
+      labels:
+        app: nginx-init
+    spec:
+      initContainers:
+        - name: wait-for-service
+          image: busybox:1.36
+          command:
+            - sh
+            - -c
+            - |
+              until nslookup nginx-service-2.hw-k8s.svc.cluster.local 2>/dev/null | grep -q "^Name:"; do
+                echo "Waiting for service nginx-service-2..."
+                sleep 5
+              done
+              echo "Service nginx-service-2 is available in DNS"
+      containers:
+        - name: nginx
+          image: nginx:1.25
+          ports:
+            - containerPort: 80
