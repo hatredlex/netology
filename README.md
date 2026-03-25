@@ -15,3 +15,13 @@ https://github.com/hatredlex/netology/blob/kuber-03/app-deployment.yaml<br>
 
 
 ### Задание 2
+Манифест деплоймента с init-контейнером:<br>
+https://github.com/hatredlex/netology/blob/kuber-03/nginx-init-deployment.yaml<br>
+Минифест сервиса:<br>
+https://github.com/hatredlex/netology/blob/kuber-03/nginx-service-2.yaml<br>
+<br>
+
+
+<img width="680" height="388" alt="image" src="https://github.com/user-attachments/assets/379e09e1-f9aa-44be-ab97-2e21751a1f22" />
+
+---
