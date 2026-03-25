@@ -13,12 +13,14 @@ https://github.com/hatredlex/netology/blob/kuber-04/service-nodeport.yaml<br>
 
 ### Задание 2
 Манифесты:<br>
+https://github.com/hatredlex/netology/blob/kuber-04/deployment-frontend.yaml<br>
+https://github.com/hatredlex/netology/blob/kuber-04/deployment-backend.yaml<br>
+https://github.com/hatredlex/netology/blob/kuber-04/service-frontend.yaml<br>
+https://github.com/hatredlex/netology/blob/kuber-04/service-backend.yaml<br>
+https://github.com/hatredlex/netology/blob/kuber-04/ingress.yaml<br>
 <br>
-<br>
-<br>
-<br>
-
-
+<img width="967" height="235" alt="image" src="https://github.com/user-attachments/assets/e11c0d55-1799-40de-b407-4e3a2ff850a9" />
+<br><br>
 <img width="1160" height="475" alt="image" src="https://github.com/user-attachments/assets/f557959a-1b83-4e0a-98d2-9eaaf4543370" />
 <br><br>
 <img width="1164" height="540" alt="image" src="https://github.com/user-attachments/assets/d485eac3-a3fd-4e10-981f-8d65a968ba5d" />
