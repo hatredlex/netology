@@ -24,8 +24,14 @@ spec:
               subPath: index.html
         - name: multitool
           image: wbitt/network-multitool:latest
+          env:
+            - name: HTTP_PORT
+              value: "8080"
+            - name: HTTPS_PORT
+              value: "8443"
           ports:
             - containerPort: 8080
+            - containerPort: 8443
       volumes:
         - name: web-content-volume
           configMap:
