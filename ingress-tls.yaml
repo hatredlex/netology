@@ -7,10 +7,10 @@ spec:
   ingressClassName: nginx
   tls:
     - hosts:
-        - myapp.example.com
+        - k8s.guskovcloud.ru
       secretName: tls-secret
   rules:
-    - host: myapp.example.com
+    - host: k8s.guskovcloud.ru
       http:
         paths:
           - path: /
