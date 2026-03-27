@@ -16,18 +16,18 @@ https://github.com/hatredlex/netology/blob/kuber-05/pv-local-manual.yaml<br>
 https://github.com/hatredlex/netology/blob/kuber-05/pvc-local-manual.yaml<br>
 https://github.com/hatredlex/netology/blob/kuber-05/data-exchange-pvc.yaml<br>
 <br><br>
-- 2.
+2.<br>
 <img width="589" height="90" alt="image" src="https://github.com/user-attachments/assets/03b781d8-0720-4f68-b7d5-f6240f99c7b6" />
 <br>
-- 3.
+3.<br>
 <img width="930" height="189" alt="image" src="https://github.com/user-attachments/assets/21c4a5b4-36a6-4d09-9df7-3558849f3dbe" />
 <br>
-- 4.
+4.<br>
 <img width="1157" height="390" alt="image" src="https://github.com/user-attachments/assets/2c127c96-0383-4e9a-bfca-b9a85dd5d6b0" />
 <br><br>
 PV перешел в состояние Released. Мы удалили PVC, к которому был привязан PV. Политика persistentVolumeReclaimPolicy: Retain говорит Kubernetes не удалять само хранилище и не очищать данные после удаления claim. То есть Kubernetes отвязал claim, но сам volume и его содержимое оставил.
 <br>
-- 5.
+5.<br>
 <img width="574" height="833" alt="image" src="https://github.com/user-attachments/assets/75c3ea6d-646e-4dbe-a3c2-84a05a5068d2" />
 <br>
 <img width="682" height="874" alt="image" src="https://github.com/user-attachments/assets/52e13bf2-560c-4c11-aa8a-0e8e5a1237a6" />
