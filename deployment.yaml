@@ -1,0 +1,32 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: web-app
+  namespace: hw-kube-conf
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: web-app
+  template:
+    metadata:
+      labels:
+        app: web-app
+    spec:
+      containers:
+        - name: nginx
+          image: nginx:stable
+          ports:
+            - containerPort: 80
+          volumeMounts:
+            - name: web-content-volume
+              mountPath: /usr/share/nginx/html/index.html
+              subPath: index.html
+        - name: multitool
+          image: wbitt/network-multitool:latest
+          ports:
+            - containerPort: 8080
+      volumes:
+        - name: web-content-volume
+          configMap:
+            name: web-content
