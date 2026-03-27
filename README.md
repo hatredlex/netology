@@ -36,7 +36,10 @@ PV перешел в состояние Released. Мы удалили PVC, к к
 <br>
 
 ### Задание 3
-
-
+Манифесты:<br>
+https://github.com/hatredlex/netology/blob/kuber-05/sc.yaml<br>
+<br><br>
+<img width="885" height="268" alt="image" src="https://github.com/user-attachments/assets/ba13663f-0d0d-4091-8dc5-2782dfa77fe4" />
+<br><br>
 
 ---
