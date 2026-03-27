@@ -25,8 +25,12 @@ https://github.com/hatredlex/netology/blob/kuber-06/rolebinding-developer.yaml<b
 <img width="651" height="112" alt="image" src="https://github.com/user-attachments/assets/2e3b0b4a-3467-41cd-a7ba-d486562aa4d0" /><br>
 <img width="1320" height="764" alt="image" src="https://github.com/user-attachments/assets/38e32cd5-5706-44c3-b81c-7cc8182ffdb6" /><br>
 <img width="1325" height="721" alt="image" src="https://github.com/user-attachments/assets/d0b9fcd1-7b48-436d-8be8-6de5c48551a6" /><br>
-
-<br>
-<br>
+<br><br>
+Создадим kubeconfig для подключения под пользователем developer<br>
+<img width="633" height="272" alt="image" src="https://github.com/user-attachments/assets/e1e7570c-c183-496b-8f73-6954365922a3" />
+<br><br>
+Выполним проверку прав под новым конфигом<br>
+<img width="1279" height="467" alt="image" src="https://github.com/user-attachments/assets/566a7ca6-427c-48b0-b1cd-f977f426deb5" />
+<br><br>
 
 ---
