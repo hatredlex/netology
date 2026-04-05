@@ -1,0 +1,9 @@
+frontend:
+  image:
+    repository: nginx
+    tag: "1.27"
+
+backend:
+  image:
+    repository: wbitt/network-multitool
+    tag: "latest"
