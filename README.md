@@ -19,6 +19,8 @@ https://github.com/hatredlex/netology/tree/kuber-07
 - demoapp-v1 в namespace app1
 - demoapp-v2 в namespace app1
 - demoapp-v3 в namespace app2
+
+
 Таким образом один и тот же Helm-чарт можно использовать для развертывания нескольких версий приложения в разных namespace и в одном namespace под разными именами релизов.
 
 
