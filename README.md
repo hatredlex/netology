@@ -13,6 +13,13 @@ https://github.com/hatredlex/netology/tree/kuber-07
 <img width="1320" height="548" alt="image" src="https://github.com/user-attachments/assets/f4df4e63-bc28-42d6-86ac-d3fcc91ed01a" /><br>
 <br>
 <br>
-<br>
-<br>
-<br>
+Был создан Helm-чарт demoapp, который разворачивает приложение из двух частей: frontend и backend. Каждый компонент разворачивается отдельным Deployment и имеет собственный Service. Версии контейнерных образов вынесены в values.yaml, что позволяет изменять их без редактирования шаблонов.
+Чарт был упакован командой helm package.
+Далее были установлены три релиза:
+- demoapp-v1 в namespace app1
+- demoapp-v2 в namespace app1
+- demoapp-v3 в namespace app2
+Таким образом один и тот же Helm-чарт можно использовать для развертывания нескольких версий приложения в разных namespace и в одном namespace под разными именами релизов.
+
+
+---
