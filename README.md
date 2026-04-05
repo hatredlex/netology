@@ -1,7 +1,7 @@
 # Домашнее задание к занятию «Helm»
 
-Манифесты:<br>
-<br>
+Манифесты, чарты, шаблоны:<br>
+https://github.com/hatredlex/netology/tree/kuber-07
 <br>
 <br>
 
