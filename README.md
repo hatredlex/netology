@@ -5,3 +5,6 @@
 ## Задание 1. Yandex Cloud
 
 <img width="590" height="179" alt="image" src="https://github.com/user-attachments/assets/5de70c33-8df3-4a36-aa22-b78ba9f4e4d6" />
+
+<img width="1759" height="360" alt="image" src="https://github.com/user-attachments/assets/47128724-0e6f-49fb-98bc-5454483ce43d" />
+
