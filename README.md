@@ -1,6 +1,6 @@
 # Домашнее задание к занятию «Организация сети»
 
-Ссылка на код https://github.com/hatredlex/netology/tree/cloud-ter
+Ссылка на код terraform https://github.com/hatredlex/netology/tree/cloud-ter
 <br/><br/>  
 ## Задание 1. Yandex Cloud
 
