@@ -13,6 +13,9 @@
 Проверка public VM<br>
 <img width="590" height="869" alt="image" src="https://github.com/user-attachments/assets/c8bc22e2-cba6-4070-8e4c-2fa2d1f6ada3" />
 <br><br>
+Проверка private VM<br>
+<img width="878" height="922" alt="image" src="https://github.com/user-attachments/assets/99feb3cc-5245-46a2-92a7-3c4946300837" />
+<br><br>
 
 
 ---
