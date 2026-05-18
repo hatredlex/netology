@@ -13,10 +13,11 @@
 <img width="812" height="404" alt="image" src="https://github.com/user-attachments/assets/279c7436-a5a7-413e-b2f8-960d617ecc40" />
 <img width="1226" height="416" alt="image" src="https://github.com/user-attachments/assets/9eab6729-3709-48a6-9560-834b7db7f5ad" />
 <br><br>
-Проверка <br>
+Проверка работоспособности<br>
+<img width="827" height="534" alt="image" src="https://github.com/user-attachments/assets/fa9027e1-601c-4a4b-8e63-f69e97b57cf1" />
 <img width="1002" height="668" alt="image" src="https://github.com/user-attachments/assets/b9ae3b4f-62c6-4921-8fa5-cb3fa8de0a71" />
 <br><br>
-Проверка <br>
+Проверка отказоустойчивости<br>
 
 <br><br>
 
