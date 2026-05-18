@@ -18,7 +18,8 @@
 <img width="1002" height="668" alt="image" src="https://github.com/user-attachments/assets/b9ae3b4f-62c6-4921-8fa5-cb3fa8de0a71" />
 <br><br>
 Проверка отказоустойчивости<br>
-
+<img width="856" height="936" alt="image" src="https://github.com/user-attachments/assets/78bb501a-a6c8-4353-9f3b-5598e2198598" />
+<img width="972" height="627" alt="image" src="https://github.com/user-attachments/assets/18b3a7e7-585a-4bc9-96a1-3ad943fad5f2" />
 <br><br>
 
 
