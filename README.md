@@ -13,7 +13,7 @@
 Статический сайт в Object Storage<br>
 <img width="1073" height="694" alt="image" src="https://github.com/user-attachments/assets/375170b9-a004-4f00-acfc-150f609ca88c" />
 <img width="1051" height="579" alt="image" src="https://github.com/user-attachments/assets/8e685dcb-776d-4b19-8a87-444e84d2f00a" />
-<img width="1298" height="372" alt="image" src="https://github.com/user-attachments/assets/aa86e961-c0f4-4241-9696-81b6d823b3a6" />
+<img width="1308" height="405" alt="image" src="https://github.com/user-attachments/assets/fdfcfcf8-7644-4a0d-8db8-93f0c0f4e872" />
 <img width="1247" height="559" alt="image" src="https://github.com/user-attachments/assets/03173ca9-3339-4531-a191-b750d5e3393b" />
 
 <br><br>
