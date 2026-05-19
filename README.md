@@ -10,13 +10,11 @@
 <img width="901" height="226" alt="image" src="https://github.com/user-attachments/assets/e14d2ada-3b8d-478f-bbdd-d3279b8c7e62" />
 
 <br><br>
-Созданные ресурсы<br>
-
-<br><br>
-Проверка работоспособности<br>
-
-<br><br>
-Проверка отказоустойчивости<br>
+Статический сайт в Object Storage<br>
+<img width="1073" height="694" alt="image" src="https://github.com/user-attachments/assets/375170b9-a004-4f00-acfc-150f609ca88c" />
+<img width="1051" height="579" alt="image" src="https://github.com/user-attachments/assets/8e685dcb-776d-4b19-8a87-444e84d2f00a" />
+<img width="1298" height="372" alt="image" src="https://github.com/user-attachments/assets/aa86e961-c0f4-4241-9696-81b6d823b3a6" />
+<img width="1247" height="559" alt="image" src="https://github.com/user-attachments/assets/03173ca9-3339-4531-a191-b750d5e3393b" />
 
 <br><br>
 
