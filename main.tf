@@ -249,10 +249,19 @@ resource "yandex_vpc_security_group" "web_sg" {
   }
 }
 
-# Add bucket
+# Add bucket with encryption
 resource "yandex_storage_bucket" "image_bucket" {
   bucket = var.bucket_name
   acl    = "public-read"
+
+  server_side_encryption_configuration {
+    rule {
+      apply_server_side_encryption_by_default {
+        kms_master_key_id = yandex_kms_symmetric_key.bucket_key.id
+        sse_algorithm     = "aws:kms"
+      }
+    }
+  }
 }
 
 resource "yandex_storage_object" "image" {
@@ -261,6 +270,9 @@ resource "yandex_storage_object" "image" {
   source       = var.image_file_path
   content_type = "image/jpeg"
   acl          = "public-read"
+  depends_on = [
+    yandex_storage_bucket.image_bucket
+  ]
 }
 
 # service account для Instance Group
@@ -405,4 +417,13 @@ resource "yandex_lb_network_load_balancer" "lamp_balancer" {
       }
     }
   }
+}
+
+### homework 3
+
+resource "yandex_kms_symmetric_key" "bucket_key" {
+  name              = "bucket-kms-key"
+  description       = "KMS key for Object Storage bucket encryption"
+  default_algorithm = "AES_128"
+  rotation_period   = "8760h"
 }

@@ -55,3 +55,13 @@ variable "image_file_path" {
   description = "Local path to image file"
   default     = "./image.jpg"
 }
+
+### homework 3
+
+output "bucket_kms_key_id" {
+  value = yandex_kms_symmetric_key.bucket_key.id
+}
+
+output "bucket_kms_key_name" {
+  value = yandex_kms_symmetric_key.bucket_key.name
+}
