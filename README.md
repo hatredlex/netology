@@ -1,1 +1,2 @@
-# netology
+# Дипломный практикум в Yandex.Cloud
+
