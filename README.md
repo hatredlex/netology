@@ -2,11 +2,11 @@
 
 Ссылка на репозиторий с кодом: https://github.com/hatredlex/netol-diplom-terr
 
+Структура репозитория:
+<img width="248" height="478" alt="image" src="https://github.com/user-attachments/assets/a59dd24b-f0ca-4dfe-b031-bf194f1cb8ab" />
 
 Создание bootstrap ресурсов:
 <img width="604" height="187" alt="image" src="https://github.com/user-attachments/assets/5cbf5e8b-de50-4199-b066-03069518702d" />
-
-
 
 Создание основной инфраструктуры:
 <img width="547" height="250" alt="image" src="https://github.com/user-attachments/assets/abbd17d7-b18d-4a17-8c4a-b3738ed942ca" />
