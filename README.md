@@ -90,7 +90,9 @@ state действительно лежит в бакете:
 ### Создание тестового приложения
 
 Создание Yandex Container Registry добавляем в Terraform.
+
 Ссылка на коммит по третьей части: https://github.com/hatredlex/netol-diplom-terr/commit/e386138bdae74c17309ed93153d8b8ebfab49cd5
+
 Ссылка на репозиторий с Nginx-приложением: https://github.com/hatredlex/netol-diplom-nginx
 
 
