@@ -89,26 +89,36 @@ state действительно лежит в бакете:
 ---
 ### Создание тестового приложения
 
-Ссылка на коммит по третьей части: 
+Создание Yandex Container Registry добавляем в Terraform.
+Ссылка на коммит по третьей части: https://github.com/hatredlex/netol-diplom-terr/commit/e386138bdae74c17309ed93153d8b8ebfab49cd5
+Ссылка на репозиторий с Nginx-приложением: https://github.com/hatredlex/netol-diplom-nginx
+
 
 <br><br>
 
 
 Структура репозитория:
 
+<img width="247" height="608" alt="image" src="https://github.com/user-attachments/assets/f61aa7ac-a943-4e4d-8a98-6e1fd5b4fbe4" />
 
+<br><br>
 
 Сборка образа:
 
 <img width="1331" height="705" alt="image" src="https://github.com/user-attachments/assets/b4860fe6-1ea2-4ac5-8c1a-881cd11d2f85" />
 
-
+<br><br>
 
 Проверка:
+
 <img width="939" height="800" alt="image" src="https://github.com/user-attachments/assets/cda90cfb-2437-4696-9eb8-851a6b8e3bbd" />
 
-
+<br><br>
 
 Загрузка в репозиторий:
 
 <img width="1051" height="366" alt="image" src="https://github.com/user-attachments/assets/416962eb-b214-4812-aa32-24c8a45ac5cd" />
+
+<br><br>
+
+---
