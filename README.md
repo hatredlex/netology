@@ -10,7 +10,7 @@
 
 ### Создание облачной инфраструктуры
 
-Ссылка на репозиторий с кодом: https://github.com/hatredlex/netol-diplom-terr
+Ссылка на коммит по первой части: https://github.com/hatredlex/netol-diplom-terr/commit/8f5630f64cbf03689d437fdb6537bfac52811b7c
 
 
 
@@ -52,3 +52,30 @@ state действительно лежит в бакете:
 
 ---
 ### Создание Kubernetes кластера
+
+Ссылка на коммит по второй части: 
+
+
+
+Создан кластер с тремя нодами в разных зонах:
+
+<img width="971" height="456" alt="image" src="https://github.com/user-attachments/assets/2e090079-a664-428f-9694-daa349206560" />
+
+<img width="1779" height="441" alt="image" src="https://github.com/user-attachments/assets/f696b1b5-4008-427d-b9df-7a3e0400988d" />
+
+
+Получаем конфиг для подключения к кластеру:
+
+<img width="969" height="443" alt="image" src="https://github.com/user-attachments/assets/4162ee78-c2a2-4d15-bdc8-916447771856" />
+
+
+Проверяем работоспособность, команды выполняются без ошибок:
+
+<img width="955" height="542" alt="image" src="https://github.com/user-attachments/assets/2d7d29ef-8863-4ca1-baed-4d9cf3fae2d7" />
+
+
+
+---
+### Создание тестового приложения
+
+
