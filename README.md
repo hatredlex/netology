@@ -98,3 +98,17 @@ state действительно лежит в бакете:
 
 
 
+Сборка образа:
+
+<img width="1331" height="705" alt="image" src="https://github.com/user-attachments/assets/b4860fe6-1ea2-4ac5-8c1a-881cd11d2f85" />
+
+
+
+Проверка:
+<img width="939" height="800" alt="image" src="https://github.com/user-attachments/assets/cda90cfb-2437-4696-9eb8-851a6b8e3bbd" />
+
+
+
+Загрузка в репозиторий:
+
+<img width="1051" height="366" alt="image" src="https://github.com/user-attachments/assets/416962eb-b214-4812-aa32-24c8a45ac5cd" />
