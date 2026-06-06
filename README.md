@@ -19,13 +19,13 @@
 
 <img width="248" height="478" alt="image" src="https://github.com/user-attachments/assets/a59dd24b-f0ca-4dfe-b031-bf194f1cb8ab" />
 
-<br>
+<br><br>
 
 Создание bootstrap ресурсов:
 
 <img width="604" height="187" alt="image" src="https://github.com/user-attachments/assets/5cbf5e8b-de50-4199-b066-03069518702d" />
 
-<br>
+<br><br>
 
 Создание основной инфраструктуры:
 
@@ -33,13 +33,13 @@
 
 <img width="1469" height="387" alt="image" src="https://github.com/user-attachments/assets/65f8ed1b-b79b-4fb8-b528-433b5e11ba75" />
 
-<br>
+<br><br>
 
 state действительно лежит в бакете:
 
 <img width="1513" height="411" alt="image" src="https://github.com/user-attachments/assets/da2e8cdf-0841-4f78-a4a0-be94be2e2236" />
 
-<br>
+<br><br>
 
 Создание и удаление ресурсов без дополнительных ручных действий:
 
@@ -51,7 +51,7 @@ state действительно лежит в бакете:
 
 <img width="1169" height="867" alt="image" src="https://github.com/user-attachments/assets/78819c82-01b4-417f-a31a-401ce512f0ed" />
 
-<br>
+<br><br>
 
 ---
 ### Создание Kubernetes кластера
@@ -64,7 +64,7 @@ state действительно лежит в бакете:
 
 <img width="236" height="557" alt="image" src="https://github.com/user-attachments/assets/d74a5df1-e1ce-4317-9df0-a873ee931202" />
 
-<br>
+<br><br>
 
 Создан кластер с тремя нодами в разных зонах:
 
@@ -72,19 +72,19 @@ state действительно лежит в бакете:
 
 <img width="1779" height="441" alt="image" src="https://github.com/user-attachments/assets/f696b1b5-4008-427d-b9df-7a3e0400988d" />
 
-<br>
+<br><br>
 
 Получаем конфиг для подключения к кластеру:
 
 <img width="969" height="443" alt="image" src="https://github.com/user-attachments/assets/4162ee78-c2a2-4d15-bdc8-916447771856" />
 
-<br>
+<br><br>
 
 Проверяем работоспособность, команды выполняются без ошибок:
 
 <img width="955" height="542" alt="image" src="https://github.com/user-attachments/assets/2d7d29ef-8863-4ca1-baed-4d9cf3fae2d7" />
 
-<br>
+<br><br>
 
 ---
 ### Создание тестового приложения
