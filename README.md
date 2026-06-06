@@ -14,6 +14,7 @@
 
 
 
+
 Структура репозитория:
 
 <img width="248" height="478" alt="image" src="https://github.com/user-attachments/assets/a59dd24b-f0ca-4dfe-b031-bf194f1cb8ab" />
@@ -53,8 +54,14 @@ state действительно лежит в бакете:
 ---
 ### Создание Kubernetes кластера
 
-Ссылка на коммит по второй части: 
+Ссылка на коммит по второй части: https://github.com/hatredlex/netol-diplom-terr/commit/3a4b5ac1b2c4db16a0980de1e914c1ba4748c662
 
+
+
+
+Структура репозитория:
+
+<img width="236" height="557" alt="image" src="https://github.com/user-attachments/assets/d74a5df1-e1ce-4317-9df0-a873ee931202" />
 
 
 Создан кластер с тремя нодами в разных зонах:
