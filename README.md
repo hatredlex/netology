@@ -173,3 +173,12 @@ state действительно лежит в бакете:
 Создаем Load Balancer
 <img width="1331" height="935" alt="image" src="https://github.com/user-attachments/assets/22eb7384-9633-42db-b183-83332eebf15f" />
 
+
+Проверяем доступность
+
+<img width="1006" height="513" alt="image" src="https://github.com/user-attachments/assets/d53097dd-3064-4bfa-b4a9-fe518b03316f" />
+
+<img width="1883" height="975" alt="image" src="https://github.com/user-attachments/assets/ca083125-7933-46e9-a90e-438cef90f779" />
+
+
+
