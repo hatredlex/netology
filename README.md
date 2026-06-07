@@ -180,5 +180,6 @@ state действительно лежит в бакете:
 
 <img width="1883" height="975" alt="image" src="https://github.com/user-attachments/assets/ca083125-7933-46e9-a90e-438cef90f779" />
 
+<img width="1424" height="829" alt="image" src="https://github.com/user-attachments/assets/475ebdc5-3755-4fc8-ade9-7d1cdc4639c1" />
 
 
