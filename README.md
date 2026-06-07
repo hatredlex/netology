@@ -169,3 +169,7 @@ state действительно лежит в бакете:
 
 <img width="649" height="298" alt="image" src="https://github.com/user-attachments/assets/ff6c7756-fff1-4ce4-9401-151572a46b50" />
 
+
+Создаем Load Balancer
+<img width="1331" height="935" alt="image" src="https://github.com/user-attachments/assets/22eb7384-9633-42db-b183-83332eebf15f" />
+
