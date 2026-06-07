@@ -134,3 +134,11 @@ state действительно лежит в бакете:
 Структура репозитория:
 
 
+Деплоим приложение в Kuber:
+
+<img width="1065" height="258" alt="image" src="https://github.com/user-attachments/assets/55706963-e403-4082-90bd-ae448784d512" />
+<img width="1078" height="762" alt="image" src="https://github.com/user-attachments/assets/dc3878f4-9d57-4c83-8372-12f1319312ec" />
+
+<br><br>
+
+
