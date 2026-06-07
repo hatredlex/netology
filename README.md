@@ -141,4 +141,31 @@ state действительно лежит в бакете:
 
 <br><br>
 
+Клонируем к себе репозиторий с kube-prometheus
+
+<img width="1063" height="466" alt="image" src="https://github.com/user-attachments/assets/3ce34fc3-d10f-46d5-968c-be91a0533824" />
+
+
+Применяем
+
+<img width="1018" height="206" alt="image" src="https://github.com/user-attachments/assets/9161050b-6218-4cd8-8a46-fd2e4d3c1e77" />
+
+<img width="1078" height="919" alt="image" src="https://github.com/user-attachments/assets/4747fb80-9fb0-482a-b2bb-6661665e3043" />
+
+<img width="1083" height="900" alt="image" src="https://github.com/user-attachments/assets/7c582380-18a1-4404-92f6-22be34e568bf" />
+
+<img width="1061" height="241" alt="image" src="https://github.com/user-attachments/assets/3f844616-c4b3-45f5-862c-fcf392fa6bbe" />
+
+
+Проверяем:
+
+<img width="580" height="273" alt="image" src="https://github.com/user-attachments/assets/f5cf2e6f-adce-4861-93b4-40e7ac9558b7" />
+
+Не хватило памяти на prometheus
+
+<img width="1340" height="118" alt="image" src="https://github.com/user-attachments/assets/91fbdb97-91f9-4fdd-973f-f0f1fdd6d945" />
+
+Увеличиваем через Terraform с 2х до 4х Гб, применяем, проверяем:
+
+<img width="649" height="298" alt="image" src="https://github.com/user-attachments/assets/ff6c7756-fff1-4ce4-9401-151572a46b50" />
 
