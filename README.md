@@ -205,3 +205,16 @@ PR с комментариями Atlantis
 Добавим токен для Registry и конфиг для Kubernetes:
 
 <img width="1028" height="677" alt="image" src="https://github.com/user-attachments/assets/759d022e-3a43-46d3-a05d-5f14fc9e2c92" />
+
+<br><br>
+
+При коммите запустилась сборка и образ загрузился в Registry:
+
+<img width="1146" height="973" alt="image" src="https://github.com/user-attachments/assets/5819bff8-4400-499c-9cdb-b3c8978dbf80" />
+
+<img width="1330" height="296" alt="image" src="https://github.com/user-attachments/assets/21fae35f-a656-4651-a9c2-12338c0fbab6" />
+
+
+
+
+
