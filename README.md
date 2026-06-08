@@ -177,5 +177,5 @@ state действительно лежит в бакете:
 
 PR с комментариями Atlantis
 
-<img width="951" height="1716" alt="image" src="https://github.com/user-attachments/assets/7302c7a0-2ee0-4fc2-9877-e5d0be9edac3" />
+<img width="951" height="1912" alt="image" src="https://github.com/user-attachments/assets/b69810e1-3210-4594-abac-1083bab74768" />
 
