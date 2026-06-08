@@ -125,6 +125,7 @@ state действительно лежит в бакете:
 
 <img width="1063" height="466" alt="image" src="https://github.com/user-attachments/assets/3ce34fc3-d10f-46d5-968c-be91a0533824" />
 
+<br><br>
 
 Применяем
 
@@ -136,23 +137,31 @@ state действительно лежит в бакете:
 
 <img width="1061" height="241" alt="image" src="https://github.com/user-attachments/assets/3f844616-c4b3-45f5-862c-fcf392fa6bbe" />
 
+<br><br>
 
 Проверяем:
 
 <img width="580" height="273" alt="image" src="https://github.com/user-attachments/assets/f5cf2e6f-adce-4861-93b4-40e7ac9558b7" />
 
+<br><br>
+
 Не хватило памяти на prometheus
 
 <img width="1340" height="118" alt="image" src="https://github.com/user-attachments/assets/91fbdb97-91f9-4fdd-973f-f0f1fdd6d945" />
+
+<br><br>
 
 Увеличиваем через Terraform с 2х до 4х Гб, применяем, проверяем:
 
 <img width="649" height="298" alt="image" src="https://github.com/user-attachments/assets/ff6c7756-fff1-4ce4-9401-151572a46b50" />
 
+<br><br>
 
 Создаем Load Balancer
+
 <img width="1331" height="935" alt="image" src="https://github.com/user-attachments/assets/22eb7384-9633-42db-b183-83332eebf15f" />
 
+<br><br>
 
 Проверяем доступность
 
@@ -162,6 +171,7 @@ state действительно лежит в бакете:
 
 <img width="1424" height="829" alt="image" src="https://github.com/user-attachments/assets/475ebdc5-3755-4fc8-ade9-7d1cdc4639c1" />
 
+<br><br>
 
 Ставим Atlantis
 
@@ -169,13 +179,23 @@ state действительно лежит в бакете:
 
 <img width="1209" height="308" alt="image" src="https://github.com/user-attachments/assets/ceb93f7e-a72b-4d79-9815-f37911c11c17" />
 
+<br><br>
 
 Проверяем доступность Atlantis
 
 <img width="1071" height="603" alt="image" src="https://github.com/user-attachments/assets/90dc669a-90a5-46ab-a575-28ae28fb20db" />
 
+<br><br>
 
 PR с комментариями Atlantis
 
 <img width="951" height="1912" alt="image" src="https://github.com/user-attachments/assets/b69810e1-3210-4594-abac-1083bab74768" />
+
+<br><br>
+
+---
+
+### Установка и настройка CI/CD
+
+
 
