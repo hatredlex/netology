@@ -174,3 +174,8 @@ state действительно лежит в бакете:
 
 <img width="1071" height="603" alt="image" src="https://github.com/user-attachments/assets/90dc669a-90a5-46ab-a575-28ae28fb20db" />
 
+
+PR с комментариями Atlantis
+
+<img width="951" height="1716" alt="image" src="https://github.com/user-attachments/assets/7302c7a0-2ee0-4fc2-9877-e5d0be9edac3" />
+
