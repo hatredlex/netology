@@ -23,7 +23,7 @@
 <br><br>
 Ссылка на коммит в репозитории terraform по первой части задания:<br>
 https://github.com/hatredlex/netol-diplom-terr/commit/8f5630f64cbf03689d437fdb6537bfac52811b7c
-<br><br>
+<br><br><br>
 Создание bootstrap ресурсов:<br>
 <img width="604" height="187" alt="image" src="https://github.com/user-attachments/assets/5cbf5e8b-de50-4199-b066-03069518702d" />
 <br><br>
@@ -54,7 +54,7 @@ state действительно лежит в бакете:<br>
 <br><br>
 Ссылка на коммит в репозитории terraform по второй части задания:<br>
 https://github.com/hatredlex/netol-diplom-terr/commit/3a4b5ac1b2c4db16a0980de1e914c1ba4748c662
-<br><br>
+<br><br><br>
 Создан кластер с тремя нодами в разных зонах:<br>
 <img width="971" height="456" alt="image" src="https://github.com/user-attachments/assets/2e090079-a664-428f-9694-daa349206560" />
 
@@ -80,7 +80,7 @@ https://github.com/hatredlex/netol-diplom-terr/commit/e386138bdae74c17309ed93153
 
 Ссылка на репозиторий с Nginx-приложением:<br>
 https://github.com/hatredlex/netol-diplom-nginx
-<br><br>
+<br><br><br>
 Сборка образа:<br>
 <img width="1331" height="705" alt="image" src="https://github.com/user-attachments/assets/b4860fe6-1ea2-4ac5-8c1a-881cd11d2f85" />
 <br><br>
@@ -104,7 +104,7 @@ https://github.com/hatredlex/netol-diplom-terr/commit/3cfa5ff11075647f529f312dc2
 
 Ссылка на репозиторий с конфигурацией Kubernetes:<br>
 https://github.com/hatredlex/netol-diplom-kuber
-<br><br>
+<br><br><br>
 Деплоим приложение в Kuber:<br>
 <img width="1065" height="258" alt="image" src="https://github.com/user-attachments/assets/55706963-e403-4082-90bd-ae448784d512" />
 
@@ -158,8 +158,8 @@ PR с комментариями Atlantis<br>
 ### Установка и настройка CI/CD
 
 
-В качестве CI/CD будем использовать GitHub Actions
-<br><br>
+В качестве CI/CD будем использовать GitHub Actions<br>
+<br><br><br>
 Добавим токен для Registry и конфиг для Kubernetes:<br>
 <img width="1028" height="677" alt="image" src="https://github.com/user-attachments/assets/759d022e-3a43-46d3-a05d-5f14fc9e2c92" />
 <br><br>
