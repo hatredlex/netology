@@ -12,6 +12,17 @@ https://github.com/hatredlex/netol-diplom-nginx
 Репозиторий с конфигурацией Kubernetes кластера<br>
 https://github.com/hatredlex/netol-diplom-kuber
 
+Ссылка на docker-образ тестового приложения<br>
+cr.yandex/crpbsthk2mbmmfskertl/diplom-nginx:v1.0.0
+
+Ссылка на тестовое приложение<br>
+http://81.26.181.35/
+
+Ссылка на Grafana<br><br>
+http://81.26.181.35/grafana/
+Данные для входа: Viewer / View3r@
+
+---
 
 ### Этапы выполнения:
    * [Создание облачной инфраструктуры](#создание-облачной-инфраструктуры)
