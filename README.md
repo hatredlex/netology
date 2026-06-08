@@ -214,6 +214,7 @@ PR с комментариями Atlantis
 
 <img width="1330" height="296" alt="image" src="https://github.com/user-attachments/assets/21fae35f-a656-4651-a9c2-12338c0fbab6" />
 
+<br><br>
 
 При добавлении тэга произошел деплой в Kubernetes:
 
