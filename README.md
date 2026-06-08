@@ -14,13 +14,6 @@
 
 <br><br>
 
-
-Структура репозитория:
-
-<img width="248" height="478" alt="image" src="https://github.com/user-attachments/assets/a59dd24b-f0ca-4dfe-b031-bf194f1cb8ab" />
-
-<br><br>
-
 Создание bootstrap ресурсов:
 
 <img width="604" height="187" alt="image" src="https://github.com/user-attachments/assets/5cbf5e8b-de50-4199-b066-03069518702d" />
@@ -60,12 +53,6 @@ state действительно лежит в бакете:
 
 <br><br>
 
-Структура репозитория:
-
-<img width="236" height="557" alt="image" src="https://github.com/user-attachments/assets/d74a5df1-e1ce-4317-9df0-a873ee931202" />
-
-<br><br>
-
 Создан кластер с тремя нодами в разных зонах:
 
 <img width="971" height="456" alt="image" src="https://github.com/user-attachments/assets/2e090079-a664-428f-9694-daa349206560" />
@@ -99,12 +86,6 @@ state действительно лежит в бакете:
 <br><br>
 
 
-Структура репозитория:
-
-<img width="247" height="608" alt="image" src="https://github.com/user-attachments/assets/f61aa7ac-a943-4e4d-8a98-6e1fd5b4fbe4" />
-
-<br><br>
-
 Сборка образа:
 
 <img width="1331" height="705" alt="image" src="https://github.com/user-attachments/assets/b4860fe6-1ea2-4ac5-8c1a-881cd11d2f85" />
@@ -127,12 +108,11 @@ state действительно лежит в бакете:
 
 ### Подготовка cистемы мониторинга и деплой приложения
 
-Ссылка на коммит по четвертой части: 
+Ссылка на коммит по четвертой части: https://github.com/hatredlex/netol-diplom-terr/commit/3cfa5ff11075647f529f312dc2473827293dc69b
+
+Ссылка на репозиторий с конфигурацией Kubernetes: https://github.com/hatredlex/netol-diplom-kuber
 
 <br><br>
-
-Структура репозитория:
-
 
 Деплоим приложение в Kuber:
 
