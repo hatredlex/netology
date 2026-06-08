@@ -3,7 +3,14 @@
 
 ### Ссылки на сервисы и конечные варианты файлов:
 
+Репозиторий с конфигурационными файлами Terraform<br>
+https://github.com/hatredlex/netol-diplom-terr
 
+Репозиторий тестового приложения<br>
+https://github.com/hatredlex/netol-diplom-nginx
+
+Репозиторий с конфигурацией Kubernetes кластера<br>
+https://github.com/hatredlex/netol-diplom-kuber
 
 
 ### Этапы выполнения:
