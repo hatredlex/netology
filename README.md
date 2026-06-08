@@ -11,6 +11,7 @@
 ### Создание облачной инфраструктуры
 
 Ссылка на коммит по первой части задания:
+
 https://github.com/hatredlex/netol-diplom-terr/commit/8f5630f64cbf03689d437fdb6537bfac52811b7c
 
 <br><br>
