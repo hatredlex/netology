@@ -1,5 +1,11 @@
 # Дипломный практикум в Yandex.Cloud
 
+
+### Ссылки на сервисы и конечные варианты файлов:
+
+
+
+
 ### Этапы выполнения:
    * [Создание облачной инфраструктуры](#создание-облачной-инфраструктуры)
    * [Создание Kubernetes кластера](#создание-kubernetes-кластера)
@@ -12,6 +18,9 @@
 
 ### Создание облачной инфраструктуры
 
+
+В качестве хранения state основной инфраструктуры будем использовать S3 bucket в ЯО.<br>
+<br><br>
 Ссылка на коммит в репозитории terraform по первой части задания:<br>
 https://github.com/hatredlex/netol-diplom-terr/commit/8f5630f64cbf03689d437fdb6537bfac52811b7c
 <br><br>
@@ -41,6 +50,8 @@ state действительно лежит в бакете:<br>
 ### Создание Kubernetes кластера
 
 
+Кластер Kubernetes будем разворачивать как Yandex Managed Service for Kubernetes.<br>
+<br><br>
 Ссылка на коммит в репозитории terraform по второй части задания:<br>
 https://github.com/hatredlex/netol-diplom-terr/commit/3a4b5ac1b2c4db16a0980de1e914c1ba4748c662
 <br><br>
@@ -61,8 +72,9 @@ https://github.com/hatredlex/netol-diplom-terr/commit/3a4b5ac1b2c4db16a0980de1e9
 ### Создание тестового приложения
 
 
-Создание Yandex Container Registry добавляем в Terraform.
-
+Для хранения образов будем использовать Yandex Container Registry. Его создание добавим в Terraform.<br>
+Для эмуляции основного приложения возьмем Nginx-сервер со статической станицей.<br>
+<br><br>
 Ссылка на коммит в репозитории terraform по третьей части задания:<br>
 https://github.com/hatredlex/netol-diplom-terr/commit/e386138bdae74c17309ed93153d8b8ebfab49cd5
 
@@ -84,6 +96,9 @@ https://github.com/hatredlex/netol-diplom-nginx
 ### Подготовка cистемы мониторинга и деплой приложения
 
 
+Воспользуемся пакетом kube-prometheus для развертывания мониторинга.<br>
+Для отслеживания изменений инфраструктуры будем использовать Atlantis.<br>
+<br><br>
 Ссылка на коммит по четвертой части:<br>
 https://github.com/hatredlex/netol-diplom-terr/commit/3cfa5ff11075647f529f312dc2473827293dc69b
 
