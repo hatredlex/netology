@@ -198,4 +198,10 @@ PR с комментариями Atlantis
 ### Установка и настройка CI/CD
 
 
+В качестве CI/CD будем использовать GitHub Actions
 
+<br><br>
+
+Добавим токен для Registry и конфиг для Kubernetes:
+
+<img width="1028" height="677" alt="image" src="https://github.com/user-attachments/assets/759d022e-3a43-46d3-a05d-5f14fc9e2c92" />
