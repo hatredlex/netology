@@ -19,8 +19,7 @@ cr.yandex/crpbsthk2mbmmfskertl/diplom-nginx:v1.0.0
 http://81.26.181.35/
 
 Ссылка на Grafana<br>
-http://81.26.181.35/grafana/
-
+http://81.26.181.35/grafana/<br>
 Данные для входа: Viewer / View3r@
 
 ---
